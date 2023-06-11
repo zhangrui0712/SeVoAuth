@@ -1,0 +1,27 @@
+{
+  "code": "1",
+  "msg": "获取成功",
+  "data": [
+    {
+      "RegCCode1": null,
+      "RegCCode2": null,
+      "AuthCCode": null,
+
+      "image_res1": null,
+      "image_res2": null,
+      "image_auth": null,
+
+      "prompt_res1": null,
+      "prompt_res2": null,
+      "prompt_auth3": null,
+
+      "command": "authentication",
+      "user_id": "user001",
+      "n_v": null,
+      "s_v": null,
+      "user_add": "192.0.0.1",
+      "rp_add": "192.0.0.1",
+      "uap_add": "192.0.0.1"
+    }
+  ]
+}
